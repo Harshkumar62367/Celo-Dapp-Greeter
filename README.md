@@ -131,11 +131,20 @@ npx localtunnel --port 3000
 
 Read more about locatunnel [here](https://www.npmjs.com/package/localtunnel).
 
+Step 13:
+
+You can further customize the Dapp by changing the front-end and adding more functionalities to the Dapp.
 
 
+### If encountered any problem yoy can check this Official Celo Documentation [here](https://developers.celo.org/build-celo-dapps-in-15-minutes-or-less-438ea954d0b1).
+
+
+
 <br>
 <br>
 <br>
+
+## Official Documentation
 
 A starter pack to get started with building dapps on Celo.
 
