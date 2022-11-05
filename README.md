@@ -20,7 +20,7 @@ Step 2:
 
 ```shell
 cd Celo-Dapp-Greeter
-nvm use  12 # uses node v12 as specified in .nvmrc
+nvm use  12 # uses node v12 as specified in .nvmrc, don't try with 16, will not work
 ```
 
 Step 3:
