@@ -1,4 +1,4 @@
-# Celo Progressive Dapp Starter
+# Celo Dapp Greeter
 
 ## Harsh (0x71B8937A0857Ea95aB41aa3007fE509D879D45f6) Documentation.
 
